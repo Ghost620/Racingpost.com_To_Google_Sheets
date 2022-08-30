@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "horse-racing-342810",
+  "private_key_id": "81870157b5a6e83b315a5b057c9e90e420a07a47",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDRsRlp/bDpJKFt\ntQnoJfRZf+Z/9Li+pcM6Q5V/lmzwQPikX/Xv71YF95JZh1rS8TRqIythMB7pDVwh\n4qW3pYCVAd3oA64EwYw58SQTNA+FZ89/pP/MDt/VOpQGteamC5BI+afZm5I4d1h/\nRhHwSg1z56s0T4jfdWm0VciVgimfkTRhlxNq0CMgYynwpIQ2O+h/wPJ7VgNQzrJZ\nuBk0oFw/iW/iCC7e4kqCjRHGiHRx46vreIh+MxJQ8IJlN74tP+pnzEqBiEuF+jXk\nSb9qHQRAbOwxNBjAVtkXqh/cNBGHlD9nRiVVDjW8HMs9uc7Zb1JTz+aFXqM4v0C4\ne1nOZlAzAgMBAAECggEAPy0NTBqrz0JDBIuTxYaR3Nkk+A4iDwZgEFDGXN9USPo6\nL0PeFADWuQuC40hde8pCEWwxKKHX3j0xMeBYL0FEwSAD3GAncLVjax2U0dhQiM/i\n+0EZ9D/S/ioc6Pyq1gIL4YCeKnitkCec2ROiWfPlo7L7qNIBmdmFFFj4CtthcPpB\n4PICMFxUOJWsoDLtAb90fUAIs0Oo1aCfrpLq0QNMtPW9HpYt4FjENRhiiZ5H5tL8\n17qns7pwIZNqjZT2q8bflBs7FPr1T1C+5OqlnJ9sW5WPBskeFq7xU+rmurkFI8iS\nZZnwJrYFnoZVj+0I8sPt3GUUhqi/Iblw4lx9KfJrwQKBgQDp6ji7Z5uTgBdB1h0A\n6WcLkU9QRFCoM6SnyCJ51BvWZGZy5wpTRNXr4gP7gh3+ADvzhDn7kYvXerle5LiO\n5Zg2/ujqLhrQzc4MmB62yZbAeLd6cpg8eBBsfIrtLHSVHxnp2djYjZcvuRMeVxFF\nw4a92zmC31AD/6broAyAwYEa4QKBgQDlfWYbuBPeMnFcVtmKrn5AblcA6N/VQaEz\nj/th2DY98nFI4AhrJZXpUZulJRgTCZ96jKsxtWFckoQz6oHndJlHXr0jnpzqaXjt\nGp7ihL1G3aJZ+YV1QzfdMtAgjYx7c4PcgY8xxue6A95A4jdqMRx/doop+3tkAR3L\nvlhfRkkBkwKBgEgzkOFfwKjNv+AFfBxc7v6mEqo++/p/PlK/tsyOCS2q/eh3ojtD\noxhVQk9uwV02q0qmRNN/AIA5lGBTDxiki9Bl7HTkWEidTf2bMtfO76ZnXJMCLjV0\nBfXGl4dP0oh4+iGxqXpmcgU8Bke2LlGvYbbWpTDdRzCEx/wxAcr4b6ZhAoGBAI3C\nN2fZ/pPb7wCOOZUcEqr0PdQ3BcUy5EP4pd0b9O2xLF9K3IhrUD4vBgkub7+ayyOl\nbz6mfzzy2K1FJ/d0pBZdJFKzcNSwUF2OeyULv+vdjqMrqk/0NLbz43KoXWYIxiRY\n975U0uGp8Al+c6KqMaNe8xvZ16+/rMslimtX/FL3AoGAKQ8A4qDI/qpelDaDsJaO\nzBTdJOFVp0Y2KF9y/MErazmxfIHTTaWodapdVKZzH48wT3kENxil897HeBGVtArY\nfxbsHo5PqOHr006RLBbqXfM/0xpSnbMhd1Am4oZnKrVDgpygHD8/VBmJNkydffSg\ntYlaSrW+0g0Lrhqyvl1nbL0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "faghost620@horse-racing-342810.iam.gserviceaccount.com",
+  "client_id": "112518681340812848189",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/faghost620%40horse-racing-342810.iam.gserviceaccount.com"
+}
